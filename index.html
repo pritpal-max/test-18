@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Team Directory</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="container">
+        <h1 class="app-title">Team Directory</h1>
+        <p class="app-subtitle">
+          Browse and search the people who make our organization great.
+        </p>
+      </div>
+    </header>
+
+    <main class="app-main">
+      <section class="toolbar container" aria-label="Team filters">
+        <div class="toolbar-group">
+          <label for="searchInput" class="field-label">Search</label>
+          <input
+            id="searchInput"
+            type="search"
+            class="text-input"
+            placeholder="Search by name or role..."
+            autocomplete="off"
+          />
+        </div>
+
+        <div class="toolbar-group">
+          <label for="roleFilter" class="field-label">Role / Department</label>
+          <select id="roleFilter" class="select-input">
+            <option value="">All</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="team-section">
+        <div class="container">
+          <div
+            id="teamGrid"
+            class="team-grid"
+            aria-live="polite"
+            aria-busy="true"
+          >
+            <!-- Team cards will be injected here -->
+          </div>
+          <p id="statusMessage" class="status-message" role="status"></p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div class="container">
+        <small>&copy; <span id="currentYear"></span> Team Directory</small>
+      </div>
+    </footer>
+
+    <script src="script.js" defer></script>
+  </body>
+</html>
+
+
+

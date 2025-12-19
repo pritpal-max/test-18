@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "location": "San Francisco, CA",
+    "email": "sarah.johnson@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=1",
+    "bio": "Full-stack developer passionate about building scalable web applications."
+  },
+  {
+    "id": 2,
+    "name": "Michael Chen",
+    "role": "Product Manager",
+    "department": "Product",
+    "location": "New York, NY",
+    "email": "michael.chen@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=2",
+    "bio": "Driving product strategy and working closely with engineering teams."
+  },
+  {
+    "id": 3,
+    "name": "Emily Rodriguez",
+    "role": "UX Designer",
+    "department": "Design",
+    "location": "Austin, TX",
+    "email": "emily.rodriguez@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=3",
+    "bio": "Creating intuitive and beautiful user experiences."
+  },
+  {
+    "id": 4,
+    "name": "David Kim",
+    "role": "Software Engineer",
+    "department": "Engineering",
+    "location": "Seattle, WA",
+    "email": "david.kim@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=4",
+    "bio": "Backend specialist focused on microservices architecture."
+  },
+  {
+    "id": 5,
+    "name": "Jessica Martinez",
+    "role": "Marketing Manager",
+    "department": "Marketing",
+    "location": "Los Angeles, CA",
+    "email": "jessica.martinez@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=5",
+    "bio": "Leading digital marketing campaigns and brand strategy."
+  },
+  {
+    "id": 6,
+    "name": "Robert Taylor",
+    "role": "DevOps Engineer",
+    "department": "Engineering",
+    "location": "Chicago, IL",
+    "email": "robert.taylor@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=6",
+    "bio": "Ensuring reliable infrastructure and smooth deployments."
+  },
+  {
+    "id": 7,
+    "name": "Amanda White",
+    "role": "Product Designer",
+    "department": "Design",
+    "location": "Boston, MA",
+    "email": "amanda.white@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=7",
+    "bio": "Designing products that users love and find easy to use."
+  },
+  {
+    "id": 8,
+    "name": "James Wilson",
+    "role": "Sales Director",
+    "department": "Sales",
+    "location": "Denver, CO",
+    "email": "james.wilson@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=8",
+    "bio": "Building relationships and driving revenue growth."
+  },
+  {
+    "id": 9,
+    "name": "Lisa Anderson",
+    "role": "Frontend Developer",
+    "department": "Engineering",
+    "location": "Portland, OR",
+    "email": "lisa.anderson@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=9",
+    "bio": "Crafting responsive and accessible user interfaces."
+  },
+  {
+    "id": 10,
+    "name": "Christopher Brown",
+    "role": "HR Manager",
+    "department": "Human Resources",
+    "location": "Miami, FL",
+    "email": "christopher.brown@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=10",
+    "bio": "Supporting team growth and fostering a positive workplace culture."
+  },
+  {
+    "id": 11,
+    "name": "Nicole Garcia",
+    "role": "Data Analyst",
+    "department": "Analytics",
+    "location": "Phoenix, AZ",
+    "email": "nicole.garcia@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=11",
+    "bio": "Turning data into actionable insights for business decisions."
+  },
+  {
+    "id": 12,
+    "name": "Kevin Lee",
+    "role": "QA Engineer",
+    "department": "Engineering",
+    "location": "San Diego, CA",
+    "email": "kevin.lee@company.com",
+    "avatar": "https://i.pravatar.cc/150?img=12",
+    "bio": "Ensuring quality and reliability through comprehensive testing."
+  }
+]
